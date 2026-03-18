@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: servicio-productos
+
+server:
+  port: 8000
+
+remote:
+  url: http://localhost:8081/tiendavirtual/pedidos
